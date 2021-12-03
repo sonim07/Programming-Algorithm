@@ -11,5 +11,11 @@ This project is made using the Pyton and tkinter and a sqlite fro the dtat base 
 5.Clear the data that is inserted to be recorded.
 
 # Output
+
+Add
 # ![Screen Shot 2021-12-03 at 11 27 05 AM](https://user-images.githubusercontent.com/91905549/144552809-99d4c067-43a8-48c4-a952-741d02454c82.png)
+
+Update
+#![Screen Shot 2021-12-03 at 11 45 33 AM](https://user-images.githubusercontent.com/91905549/144553420-262bcea9-d278-408e-b73e-2870c6ccb1c3.png)
+
 
