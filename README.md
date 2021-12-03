@@ -10,3 +10,4 @@ This project is made using the Pyton and tkinter and a sqlite fro the dtat base 
 4.Delete the recorded data of the employee.
 5.Clear the data that is inserted to be recorded.
 
+# Output
