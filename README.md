@@ -21,3 +21,5 @@ Update
 Delete
 # ![Screen Shot 2021-12-03 at 11 45 45 AM](https://user-images.githubusercontent.com/91905549/144553491-78839491-62e7-492a-b112-8e2354b13eec.png)
 
+# Conclusion
+To run this project you first nedd to have python and pycharm for ide
